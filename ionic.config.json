@@ -1,0 +1,7 @@
+{
+  "name": "smartshoes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
